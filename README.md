@@ -1,6 +1,6 @@
 # Nakshatra
 
-Nakshatra is a Flutter UI prototype for an astrology consultation app. It opens on Explore so the directory is ready to review. Choose Profile to try registration, login and birth details.
+Nakshatra is a demo astrology consultation app built with Flutter for a technical interview assignment. It showcases the consumer journey, from exploring astrologers and creating a birth profile to trying simulated chat, voice and video consultations. Open the Profile tab to try registration and login.
 
 ## Run
 
